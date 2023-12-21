@@ -4,3 +4,4 @@ export { signOut } from './sign-out';
 export { CreateTopic } from './create-topic';
 export { CreatePost } from './create-post';
 export { createComment } from './create-comment';
+export { search } from './search';
