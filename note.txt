@@ -7,6 +7,7 @@ npx create-next-app@latest
 npm install @nextui-org/react framer-motion   
 
 npm install prisma 
+npm install zod 
 
 npx prisma init --datasource-provider sqlite  
 
